@@ -2,5 +2,5 @@
 
 Links
 
-- See [Web](https://mr-vabs.github.io/ECloudWORX/index.html)
+- See [Web](https://ecloudworx.com/)
 - See [Repo](https://github.com/Mr-vabs/ECloudWORX)
